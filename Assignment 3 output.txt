@@ -1,0 +1,29 @@
+Enter boat capacity (kg): 60
+Enter number of items: 3
+
+Item 1:
+Weight (kg): 10
+Utility value: 50
+Divisible (1 = Yes, 0 = No): 1
+
+Item 2:
+Weight (kg): 30
+Utility value: 80
+Divisible (1 = Yes, 0 = No): 1
+
+Item 3:
+Weight (kg): 50
+Utility value: 100
+Divisible (1 = Yes, 0 = No): 0
+
+
+Items sorted by utility/weight ratio:
+Weight    Utility   Divisible U/W Ratio
+10.00     50.00     Yes       5.00
+30.00     80.00     Yes       2.67
+50.00     100.00    No        2.00
+
+Maximum Utility Boat Can Carry = 130.00
+
+Time Complexity: O(n log n) (due to sorting)
+Space Complexity: O(n)
