@@ -1,0 +1,14 @@
+Enter number of movies: 2
+Enter title, rating, year, watchTime: avengers
+9.9
+2012
+160
+Enter title, rating, year, watchTime: ddlj
+8.9
+1995
+170
+Choose sorting parameter (1-Rating, 2-Year, 3-WatchTime): 2
+
+Sorted Movies:
+ddlj | Rating: 8.9 | Year: 1995 | WatchTime: 170
+avengers | Rating: 9.9 | Year: 2012 | WatchTime: 160
