@@ -1,5 +1,5 @@
-#Neha Tadavi
-#PRN:124B2F006
+//Neha Tadavi
+//PRN:124B2F006
 //merge short
 
 #include <iostream>
@@ -113,4 +113,5 @@ int main()
     return 0;
 
 }
+
 
