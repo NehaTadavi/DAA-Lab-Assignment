@@ -1,5 +1,5 @@
-#Neha Tadavi
-#PRN:124B2F006
+//Neha Tadavi
+//PRN:124B2F006
 // assignment description 
 // A massive earthquake has struck a remote region, and a relief organization is transporting
 // essential supplies to the affected area. The organization has a limited-capacity relief truck that
@@ -104,3 +104,4 @@ int main() {
     return 0;
 
 }
+
