@@ -1,5 +1,5 @@
-#Neha Tadavi
-#PRN:124B2F006
+//Neha Tadavi
+//PRN:124B2F006
 // assignment description 
 // A university is facing challenges in scheduling exam timetables due to overlapping student
 // enrollments in multiple courses. To prevent clashes, the university needs to assign exam
@@ -167,3 +167,4 @@ int main() {
     return 0;
 
 }
+
